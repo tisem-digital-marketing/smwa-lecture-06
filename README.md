@@ -1,4 +1,4 @@
-# Social Media and Web Analytics: LECTURE NAME
+# Social Media and Web Analytics: Viral Marketing
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 [![lifecycle](https://img.shields.io/badge/version-2021-red.svg)]()
